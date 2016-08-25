@@ -2,7 +2,7 @@
 """
 Created on Mon Jul 18 17:26:49 2016
 
-@author: Mahmudul Alam
+@author: Mahfuzul Alam
 """
 
 import requests
